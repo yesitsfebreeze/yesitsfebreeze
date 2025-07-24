@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on
 
-[<img src="[dev/logo.svg](https://raw.githubusercontent.com/yesitsfebreeze/kitsune/refs/heads/master/dev/logo.svg)" alt="Logo" height="60">](https://github.com/yesitsfebreeze/kitsune)
+ [<img src="https://raw.githubusercontent.com/yesitsfebreeze/kitsune/refs/heads/master/dev/logo.svg" alt="Logo" height="80">](https://github.com/yesitsfebreeze/kitsune)
 
 
 - 👯 I’m looking to collaborate on **kitsune** :)

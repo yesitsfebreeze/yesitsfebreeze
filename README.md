@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesitsfebreeze" alt="yesitsfebreeze" /></a> </p>
 
-- 🔭 I’m currently working on [orbit](https://orbit-firmware.github.io/)
+- 🔭 I’m currently working on [orbit](https://github.com/yesitsfebreeze/kitsune)
 
-- 👯 I’m looking to collaborate on **orbit :)**
+- 👯 I’m looking to collaborate on **kitsune** :)
 
 - ⚡ Fun fact **i smell nice**
 

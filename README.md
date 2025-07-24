@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesitsfebreeze" alt="yesitsfebreeze" /></a> </p>
 
-- 🔭 I’m currently working on [kitsune](https://github.com/yesitsfebreeze/kitsune)
+- 🔭 I’m currently working on
+
+[<img src="[dev/logo.svg](https://raw.githubusercontent.com/yesitsfebreeze/kitsune/refs/heads/master/dev/logo.svg)" alt="Logo" height="60">](https://github.com/yesitsfebreeze/kitsune)
+
 
 - 👯 I’m looking to collaborate on **kitsune** :)
 
